@@ -15,11 +15,11 @@
 
 - 설명 : 현재 위치를 받아와서 위치에 따른 날씨를 보여주고, 각 날씨에 따라 다른 스타일을 보여주는 앱
 
-- <img src="./image/screen1.png" width="200" height="600">
+- <img src="./image/screen1.png" width="300" height="600">
 
-  <img src="./image/screen2.png" width="200" height="600"/>
+  <img src="./image/screen2.png" width="300" height="600"/>
 
-  <img src="./image/screen3.png" width="200" height="600" />
+  <img src="./image/screen3.png" width="300" height="600" />
 
-  <img src="./image/screen4.png" width="200" height="600"/>
+  <img src="./image/screen4.png" width="300" height="600"/>
 
