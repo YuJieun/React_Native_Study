@@ -15,11 +15,11 @@
 
 - 설명 : 현재 위치를 받아와서 위치에 따른 날씨를 보여주고, 각 날씨에 따라 다른 스타일을 보여주는 앱
 
-- ![screen1](./image/screen1.png)
+- <img src="./image/screen1.png" alt="screen1" style="zoom:50%;" />
 
-  ![screen2](./image/screen2.png)
+  <img src="./image/screen2.png" alt="screen2" style="zoom: 50%;" />
 
-  ![screen3](./image/screen3.png)
+  <img src="./image/screen3.png" alt="screen3" style="zoom:50%;" />
 
-  ![screen4](./image/screen4.png)
+  <img src="./image/screen4.png" alt="screen4" style="zoom:50%;" />
 
